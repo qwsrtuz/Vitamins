@@ -1,0 +1,324 @@
+@media (max-width: 320px) {
+  body { overflow-x:hidden; }
+  .media {
+    display: block;
+    max-width: 320px;
+  }
+  .container {
+    display: none;
+  }
+  .bg-media1 {
+    background: linear-gradient(0deg, #FFF 3.79%, rgba(255, 255, 255, 0.00) 44.2%), #44D6FF;
+    width: 320px;
+    height: 748px;
+  }
+  .social_icons-media {
+    display: flex;
+    gap: 10px;
+    padding: 20px 0px 0px 13px;
+  }
+  .cloud-021-media {
+    position: absolute;
+    margin-top: 38px;
+  }
+  .title-text-media {
+    padding: 40px 0px 0px 14px;
+  }
+  .title_header-media {
+    font-size: 52px;
+    line-height: 60px;
+    padding-bottom: 16px;
+  }
+  .titledescrp_header-media {
+    font-weight: 400;
+    padding-bottom: 23px;
+    width: 291px;
+  }
+  .clou-011-media {
+    position: absolute;
+    padding: 175px 0px 0px 118px;
+  }
+  .trava-1-media {
+    position: absolute;
+    padding-top: 605px;
+    z-index: 2;
+  }
+  .personajy-1-media {
+    position: absolute;
+    padding: 440px 0px 0px 21px;
+    z-index: 3;
+  }
+  .tree-01-media {
+    position: absolute;
+    padding: 535px 0px 0px 0px;
+    z-index: 1;
+  }
+  .tree-02-media {
+    position: absolute;
+    z-index: 1;
+    padding: 488px 0px 0px 225px;
+  }
+  .back-up-media {
+    position: absolute;
+    z-index: 4;
+    padding-top: 721px;
+  }
+  .bg2 {
+    height: 2435px;
+    background: linear-gradient(0deg, #FFF 4.47%, rgba(255, 255, 255, 0.00) 18.08%), #FFF6EE;
+  }
+  .unnamed-media {
+    padding-top: 65px;
+  }
+  .descrp1 {
+    padding-bottom: 56px;
+  }
+  .descrp2 {
+    padding-bottom: 56px;
+  }
+  .pattern-012-media {
+    position: absolute;
+    padding: 270px 0px 0px 193px;
+  }
+  .pattern-022-media {
+    position: absolute;
+    padding-top: 931px;
+  }
+  .pattern-013-media {
+    position: absolute;
+    padding: 1600px 0px 0px 197px;
+  }
+  .bg3 {
+    background: linear-gradient(270deg, rgba(255, 255, 255, 0.80) 9.04%, rgba(255, 255, 255, 0.00) 84.88%), #44D6FF;
+    height: 325px;
+  }
+  .back-down-media {
+    position: absolute;
+  }
+  .trava-media {
+    position: absolute;
+    padding-top: 290px;
+  }
+  .slider-media {
+    position: relative;
+    padding: 80px 0px 0px 89px;
+    display: flex;
+    z-index: 999;
+  }
+  .slide-media, .plate-media {
+    flex: 0 0 100%;
+  }
+  .cloud1 {
+    position: absolute;
+    padding: 20px 0px 0px 163px;
+  }
+  .clo-011-media {
+    position: absolute;
+    padding: 158px 60px 0px 0px;
+    margin-left: -90px;
+  }
+  .bg4 {
+    background: #FFEBDA;
+    height: 1200px;
+  }
+  .arrow-media {
+    position: relative;
+    gap: 25px;
+    z-index: 6;
+    padding: 40px 0px 0px 75px;
+  }
+  .calcium-1-media {
+    width: 165px;
+    height: 262px;
+  }
+  .omega-1-media {
+    width: 150;
+    height: 262px;
+  }
+  .d-31-media {
+    width: 150;
+    height: 262px;
+  }
+  .plater-media {
+    padding: 0px 0px 0px 0px;
+  }
+  .btnbuy {
+    position: absolute;
+    z-index: 999;
+    margin-top: -118px;
+    margin-left: 58px;
+  }
+  .bg5 {
+    background: linear-gradient(0deg, rgba(255, 240, 227, 0.30) -25%, rgba(255, 255, 255, 0.00) 56.58%), #9058C5;
+    height: 1134px;
+  }
+  .text-section4 {
+    padding-left: 15px;
+    padding-right: 5px;
+    width: 320px;
+  }
+  .up4-media {
+    position: absolute;
+    z-index: 99;
+    margin-top: -32px
+  }
+  .bg32_media {
+    position: absolute;
+    padding: 765px 0px 0px 0px;
+  }
+  .grusha-media {
+    position: absolute;
+    padding: 810px 0px 0px 0px;
+  }
+  .up5-media {
+    position: absolute;
+    z-index: 11;
+    padding: 1121px 0px 0px 0px;
+  }
+  .bg6 {
+    background: linear-gradient(1deg, #FFF -17.47%, rgba(255, 255, 255, 0.00) 37.7%), #FFF6EE;
+    height: 1058px;
+    width: 320px;
+  }
+  .img32-media {
+    padding-top: 65px;
+    padding-bottom: 21px;
+  }
+  .alltext {
+    color: #D07CC6;
+    padding-left: 19px;
+  }
+  .title-text6 {
+    width: 290px;
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 60px;
+  }
+  .descrp-text6 {
+    width: 290px;
+    height: 318px;
+    padding-top: 16px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .detmir6 {
+    width: 218px;
+    font-weight: 900;
+    font-size: 18px;
+  }
+  .ptrn-media {
+    position: absolute;
+    padding: 0px 0px 0px 162px;
+  }
+  .ptrn2-media {
+    position: absolute;
+    padding: 314px 0px 0px 0px;
+  }
+  .ptrn3-media {
+    position: absolute;
+    padding: 343px 0px 0px 243px;
+  }
+  .footerbg {
+    height: 1802px;
+    width: 320px;
+    background: #00A1C3;
+  }
+  .addnumber-media {
+    position: relative;
+    z-index: 1;
+    padding: 1200px 0px 0px 15px;
+  }
+  .down213-media {
+    position: absolute;
+    padding: 1057px 0px 0px 0px;
+  }
+  .addnumber-media > div {
+    padding-bottom: 30px;
+  }
+  .n1 {
+    width: 287px;
+    height: 150px;
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 56px;
+    padding-bottom: 21px;
+  }
+  .n2 {
+    padding-left: 20px;
+    color: #038DB3;
+    width: 290px;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #fff;
+  }
+  .n2::placeholder {
+      color: #038DB3;
+      opacity: 0.3;
+  }
+  .n3 {
+    margin-left: 50px;
+  }
+  .orange-media {
+    position: absolute;
+    z-index: 10;
+    padding: 1260px 0px 0px 197px;
+  }
+  .vector1-media {
+    position: absolute;
+    padding: 1580px 0px 0px 0px;
+    z-index: 1;
+  }
+  .yellow-media {
+    position: absolute;
+    padding: 1620px 0px 0px 22px;
+    z-index: 1;
+  }
+  .back21-media {
+    position: absolute;
+    padding: 1100px 0px 0px 0px
+  }
+  .hfooter {
+    padding-top: 100px;
+    background: #135B9B;
+  }
+  .containerfoot-media {
+    padding: 0px 0px 0px 15px;
+  }
+  .stop-media {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    text-align: center;
+  }
+  .line-media {
+    margin: 17px 15px 26px 5px;
+    background: #FFF;
+    width: 290px;
+    height: 2px;
+  }
+  .customer-media > p {
+    padding-bottom: 10px;
+    font-weight: 800;
+    line-height: normal;
+  }
+  .customer-media {
+    padding-bottom: 28px;
+    width: 285px;
+    font-weight: 400;
+    line-height: 100%;
+  }
+  .contacts-media > p {
+    padding-bottom: 10px;
+    font-weight: 800;
+    line-height: 23.5px;
+  }
+  .contacts-media {
+    font-weight: 400;
+    padding-bottom: 15px;
+  }
+  .icon-media {
+    padding-bottom: 20px;
+    gap: 10px;
+  }
+}
